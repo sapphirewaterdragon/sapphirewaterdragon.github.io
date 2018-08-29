@@ -1,0 +1,12 @@
+body{
+   background-color: #000000;
+   }
+   h1{
+      color: white;
+      text-align: Center;
+   }
+   p{
+    font-family: Verdana, Geneva, Sans-serif;
+    font-size 18 px;
+    color: gray;
+    }
