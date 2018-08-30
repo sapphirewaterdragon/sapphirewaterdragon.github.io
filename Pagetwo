@@ -6,6 +6,8 @@
         <link rel="stylesheet" type="text/css" href="Style.css">
      </head>
       <body>
+        <li><a href="intial.html">home</a></li>
+        <Li><a href="pagetwo.html">Page 2</a></li>
            <h1>
               How was your morning man! X3
            </h1>
